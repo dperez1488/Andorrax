@@ -1,0 +1,20 @@
+[
+  {
+    "name": "dani",
+    "email": "danipf25@hotmail.es",
+    "hashedPassword": "329fc35509ce3017ac4baa9e14a96d8f7ec018412bbb752579268304339e9ed4",
+    "createdAt": "2025-12-10T12:20:19.392Z"
+  },
+  {
+    "name": "miriam",
+    "email": "miriam_michy@hotmail.com",
+    "hashedPassword": "e2d6054f94600e5a0c901d486eebecc34fe6c8b4334eccebe05fddd0ce8bf7b7",
+    "createdAt": "2025-12-10T17:05:01.184Z"
+  },
+  {
+    "name": "ramon",
+    "email": "danipf25@hotmail.com",
+    "hashedPassword": "58691b6d9d4fd26f992d17070a6dd2a80d20b33a45664b7a244b7c3a7d17f2d7",
+    "createdAt": "2025-12-14T09:47:41.545Z"
+  }
+]

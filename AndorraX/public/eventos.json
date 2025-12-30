@@ -1,0 +1,322 @@
+[
+  {
+    "ciudad": "Andorra la Vella",
+    "anio": 2026,
+    "eventos": [
+      {
+        "id": 1,
+        "nombre": "Carnaval de Andorra la Vella",
+        "fecha": "2026-02-15",
+        "descripcion": "Desfile de carnaval con carrozas, disfraces y actividades para toda la familia en el centro de la ciudad.",
+        "lugar": "Centro histórico",
+        "enlace": "https://visitandorra.com/es/agenda/carnaval-andorra-la-vella/"
+      },
+      {
+        "id": 2,
+        "nombre": "Festival Internacional de Jazz de Andorra",
+        "fecha": "2026-07-10",
+        "descripcion": "Conciertos de jazz con artistas internacionales en diferentes escenarios de la ciudad.",
+        "lugar": "Plaza Mayor y otros espacios culturales",
+        "enlace": "https://visitandorra.com/es/agenda/festival-jazz-andorra/"
+      },
+      {
+        "id": 3,
+        "nombre": "Mercado de Navidad",
+        "fecha": "2026-12-01",
+        "descripcion": "Mercado navideño con puestos de artesanía, gastronomía y actividades infantiles.",
+        "lugar": "Avenida Meritxell",
+        "enlace": "https://visitandorra.com/es/agenda/mercado-navidad-andorra/"
+      },
+      {
+        "id": 4,
+        "nombre": "Ciudades a escala humana",
+        "fecha": "2025-12-16",
+        "descripcion": "Exposición y actividades sobre urbanismo y vida en la ciudad. Evento repetitivo durante diciembre.",
+        "lugar": "Bici Lab Andorra, C/. Prat de la Creu nº 70",
+        "enlace": "https://www.turismeandorralavella.com/es/events/ciudades-a-escala-humana/?occurrence=2025-12-16"
+      },
+      {
+        "id": 5,
+        "nombre": "Exposición 'Del nacer al renacer'",
+        "fecha": "2025-10-29",
+        "descripcion": "Vivencias cotidianas en el antiguo Egipto. Exposición temporal.",
+        "lugar": "Andorra la Vella y Escaldes-Engordany",
+        "enlace": "https://visitandorra.com/es/agenda/from-birth-to-rebirth/"
+      },
+      {
+        "id": 6,
+        "nombre": "Pioneros 1884-1954. La Andorra de los primeros fotógrafos",
+        "fecha": "2025-11-18",
+        "descripcion": "Exposición fotográfica sobre los inicios de la fotografía en Andorra.",
+        "lugar": "Andorra la Vella",
+        "enlace": "https://visitandorra.com/es/agenda/pioners-1884-1954/"
+      }
+    ]
+  },
+  {
+    "ciudad": "Ordino",
+    "anio": 2025,
+    "eventos": [
+      {
+        "id": 7,
+        "nombre": "Concierto de piano – Goran Filipec",
+        "fecha": "2025-12-16",
+        "descripcion": "Concierto de piano a cargo del reconocido pianista Goran Filipec.",
+        "lugar": "Ordino",
+        "enlace": "https://www.agenda.ad/activitat/ordino/musica/concert-de-piano-goran-filipec"
+      }
+      ,{
+        "id": 8,
+        "nombre": "El Cercle Màgic",
+        "fecha": "2025-11-22",
+        "descripcion": "Ciclo de magia y espectáculos para toda la familia.",
+        "lugar": "Ordino",
+        "enlace": "https://www.ordino.ad/agenda/el-cercle-magic"
+      },
+      {
+        "id": 9,
+        "nombre": "Un Nadal encapsulat",
+        "fecha": "2025-12-09",
+        "descripcion": "Exposición navideña para todos los públicos.",
+        "lugar": "Ordino",
+        "enlace": "https://www.ordino.ad/agenda/un-nadal-encapsulat"
+      },
+      {
+        "id": 10,
+        "nombre": "Ioga de Nadal",
+        "fecha": "2025-12-14",
+        "descripcion": "Gran ioga solidario a beneficio de Laika y Gossos.",
+        "lugar": "Ordino",
+        "enlace": "https://www.ordino.ad/agenda/ioga-de-nadal-1"
+      },
+      {
+        "id": 11,
+        "nombre": "Concert de Jovedry",
+        "fecha": "2025-12-18",
+        "descripcion": "Concierto especial dentro del ciclo Canya als Museus.",
+        "lugar": "Ordino",
+        "enlace": "https://www.ordino.ad/agenda/concert-de-jovedry"
+      },
+      {
+        "id": 12,
+        "nombre": "Concert de Nadal",
+        "fecha": "2025-12-21",
+        "descripcion": "Concierto de Navidad con la Coral Casamanya y Coral Piulets d'Ordino.",
+        "lugar": "Ordino",
+        "enlace": "https://www.ordino.ad/agenda/concert-de-nadal-5"
+      },
+      {
+        "id": 13,
+        "nombre": "Arribada del Pare Noel",
+        "fecha": "2025-12-24",
+        "descripcion": "Llegada de Papá Noel a Ordino.",
+        "lugar": "Ordino",
+        "enlace": "https://www.ordino.ad/agenda/arribada-del-pare-noel-7"
+      },
+      {
+        "id": 14,
+        "nombre": "Concert d'Any Nou",
+        "fecha": "2026-01-01",
+        "descripcion": "Concierto de Año Nuevo en Ordino.",
+        "lugar": "Ordino",
+        "enlace": "https://www.ordino.ad/agenda/concert-dany-nou"
+      },
+      {
+        "id": 15,
+        "nombre": "Arribada dels Reis Mags d'Orient",
+        "fecha": "2026-01-05",
+        "descripcion": "Cabalgata de los Reyes Magos en Ordino.",
+        "lugar": "Ordino",
+        "enlace": "https://www.ordino.ad/agenda/arribada-dels-reis-mags-dorient"
+      }
+    ]
+  },
+  {
+    "ciudad": "Canillo",
+    "anio": 2026,
+    "eventos": [
+      {
+        "id": 16,
+        "nombre": "La gran ruta dels tions de Canillo",
+        "fecha": "2025-12-01",
+        "descripcion": "Ruta navideña por los tions de Canillo.",
+        "lugar": "Canillo",
+        "enlace": "https://www.canillo.ad/agenda/la-gran-ruta-dels-tions-de-canillo"
+      },
+      {
+        "id": 17,
+        "nombre": "Contacontes 'Les reines d’Orient'",
+        "fecha": "2026-01-02",
+        "descripcion": "Cuentacuentos bilingüe para niños y familias.",
+        "lugar": "Canillo",
+        "enlace": "https://www.canillo.ad/agenda/contacontes-les-reines-dorient"
+      },
+      {
+        "id": 18,
+        "nombre": "La caseta dels patges reials",
+        "fecha": "2026-01-02",
+        "descripcion": "Visita la caseta de los pajes reales en Canillo.",
+        "lugar": "Canillo",
+        "enlace": "https://www.canillo.ad/agenda/la-caseta-dels-patges-reials"
+      },
+      {
+        "id": 19,
+        "nombre": "Teatre solidari 'Pompeu Fabra s’escriu amb ce trencada'",
+        "fecha": "2026-01-02",
+        "descripcion": "Teatro solidario en Canillo.",
+        "lugar": "Canillo",
+        "enlace": "https://www.canillo.ad/agenda/teatre-solidari-pompeu-fabra-sescriu-amb-ce-trencada"
+      },
+      {
+        "id": 20,
+        "nombre": "Concert de Rocío González",
+        "fecha": "2026-01-03",
+        "descripcion": "Concierto de la cantante Rocío González.",
+        "lugar": "Canillo",
+        "enlace": "https://www.canillo.ad/agenda/concert-de-rocio-gonzalez"
+      },
+      {
+        "id": 21,
+        "nombre": "Cavalcada de Reis",
+        "fecha": "2026-01-05",
+        "descripcion": "Cabalgata de los Reyes Magos en Canillo.",
+        "lugar": "Canillo",
+        "enlace": "https://www.canillo.ad/agenda/cavalcada-de-reis"
+      }
+    ]
+  },
+  {
+    "ciudad": "Encamp",
+    "anio": 2025,
+    "eventos": [
+      {
+        "id": 22,
+        "nombre": "NeuFest 2025 - El Pas de la Casa",
+        "fecha": "2025-12-13",
+        "descripcion": "Festival de ski-test en El Pas de la Casa.",
+        "lugar": "El Pas de la Casa, Encamp",
+        "enlace": "https://www.comuencamp.ad/actualitat/agenda/neufest-el-pas-de-la-casa"
+      },
+      {
+        "id": 23,
+        "nombre": "Entrega de premis del XVI concurs de narrativa fantàstica i de terror",
+        "fecha": "2025-12-16",
+        "descripcion": "Entrega de premios del concurso de narrativa fantástica y de terror.",
+        "lugar": "Encamp",
+        "enlace": "https://www.comuencamp.ad/actualitat/agenda/entrega-de-premis-del-xvi-concurs-de-narrativa-fantastica-i-de-terror"
+      },
+      {
+        "id": 24,
+        "nombre": "Dinar de Nadal per a la Gent Gran",
+        "fecha": "2025-12-17",
+        "descripcion": "Comida de Navidad para la gente mayor de Encamp.",
+        "lugar": "Encamp",
+        "enlace": "https://www.comuencamp.ad/actualitat/agenda/dinar-de-nadal-per-a-la-gent-gran-d2019encamp"
+      },
+      {
+        "id": 25,
+        "nombre": "Concert coral de Nadal",
+        "fecha": "2025-12-21",
+        "descripcion": "Concierto coral de Navidad en Encamp.",
+        "lugar": "Encamp",
+        "enlace": "https://www.comuencamp.ad/actualitat/agenda/concert-de-nadal"
+      },
+      {
+        "id": 26,
+        "nombre": "VI Concurs d’aparadors i decoració de Nadal",
+        "fecha": "2025-12-01",
+        "descripcion": "Concurso de escaparates y decoración navideña en Encamp y El Pas de la Casa.",
+        "lugar": "Encamp y El Pas de la Casa",
+        "enlace": "https://www.comuencamp.ad/actualitat/agenda/vi-concurs-aparadors-decoracio-nadal"
+      }
+    ]
+  },
+  {
+    "ciudad": "La Massana",
+    "anio": 2025,
+    "eventos": [
+      {
+        "id": 27,
+        "nombre": "La Bohème",
+        "fecha": "2025-12-19",
+        "descripcion": "Representación de la ópera La Bohème.",
+        "lugar": "La Massana",
+        "enlace": "https://www.lamassana.ad/agenda/boheme"
+      },
+      {
+        "id": 28,
+        "nombre": "Exposició - El Londres de Virginia Woolf",
+        "fecha": "2025-12-01",
+        "descripcion": "Exposición sobre el Londres de Virginia Woolf.",
+        "lugar": "La Massana",
+        "enlace": "https://www.lamassana.ad/agenda/londres-virginia-woolf"
+      },
+      {
+        "id": 29,
+        "nombre": "Activitats curs 2025/26",
+        "fecha": "2025-09-01",
+        "descripcion": "Actividades del curso 2025/26 en La Massana.",
+        "lugar": "La Massana",
+        "enlace": "https://www.lamassana.ad/agenda/activitats-curs-2025-26"
+      },
+      {
+        "id": 30,
+        "nombre": "Esplai - Curs 2025-2026",
+        "fecha": "2025-09-01",
+        "descripcion": "Esplai y actividades para jóvenes durante el curso 2025-2026.",
+        "lugar": "La Massana",
+        "enlace": "https://www.lamassana.ad/agenda/esplai-curs-2025-2026"
+      }
+    ]
+  },
+  {
+    "ciudad": "Escaldes-Engordany",
+    "anio": 2025,
+    "eventos": [
+      {
+        "id": 31,
+        "nombre": "Animación teatral 'VOLEM VOTAR!'",
+        "fecha": "2025-12-14",
+        "descripcion": "Clausura de la exposición 'Dones clau a la història d'Andorra: les sufragistes andorranes'.",
+        "lugar": "Escaldes-Engordany",
+        "enlace": "https://www.agenda.ad/activitat/escaldes-engordany/exposicions/animacio-teatral-volem-votar!-per-la-clausura-de-l-exposicio-dones-clau-a-la-historia-d-andorra-les-sufragistes-andorranes"
+      }
+    ]
+  },
+  {
+    "ciudad": "Sant Julià de Lòria",
+    "anio": 2025,
+    "eventos": [
+      {
+        "id": 32,
+        "nombre": "Festes de Nadal i Reis - Bústia del Pare Noel",
+        "fecha": "2025-12-15",
+        "descripcion": "Actividades infantiles y recogida de cartas para Papá Noel y Reyes Magos.",
+        "lugar": "Sant Julià de Lòria",
+        "enlace": "https://www.agenda.ad/activitat/sant-julia-de-loria/activitats-infantils/festes-de-nadal-i-reis-bustia-del-pare-noel"
+      }
+    ]
+  },
+  {
+    "ciudad": "General Andorra",
+    "anio": 2025,
+    "eventos": [
+      {
+        "id": 33,
+        "nombre": "Cabalgata de SS. MM. los Reyes Magos",
+        "fecha": "2025-12-29",
+        "descripcion": "Cabalgata tradicional de los Reyes Magos en varias parroquias de Andorra.",
+        "lugar": "Varias parroquias",
+        "enlace": "https://visitandorra.com/es/agenda/cabalgata-de-ss-mm-los-reyes-magos/"
+      },
+      {
+        "id": 34,
+        "nombre": "Actividades en los museos de Andorra",
+        "fecha": "2025-09-27",
+        "descripcion": "Actividades y talleres en la red de museos públicos de Andorra.",
+        "lugar": "Museos públicos de Andorra",
+        "enlace": "https://visitandorra.com/es/agenda/actividades-en-los-museos-de-andorra/"
+      }
+    ]
+  }
+]

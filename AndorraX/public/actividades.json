@@ -1,0 +1,103 @@
+[
+  {
+    "id_actividad": 1,
+    "nombre": "Visita guiada por Andorra la Vieja",
+    "categoria": "Cultural",
+    "descripcion": "Acompañadnos en esta visita guiada por Andorra la Vieja para descubrir sus principales monumentos y rincones con más encanto. ¡Bienvenidos a la capital más alta de Europa!",
+    "ubicacion": "Centro",
+    "fecha": "",
+    "duracion": "3h",
+    "precio": "15$",
+    "imagen":"/Images/Actividades/visita-guiada-andorra-vieja.jpg, /Images/Actividades/visita-guiada-andorra-la-vieja2.jpg, /Images/Actividades/visita-andorra-la-vieja3.jpg, /Images/Actividades/tour-andorra-la-vieja4.jpg, /Images/Actividades/andorra-la-vieja-recorrido5.jpg"
+  },
+  {
+    "id_actividad": 2,
+    "nombre": "Cata de Vinos",
+    "categoria": "Gastronomía",
+      "imagen": "/Images/Actividades/visita-guiada-andorra-vieja.jpg, /Images/Actividades/visita-guiada-andorra-la-vieja2.jpg,",
+    "ubicacion": "Bodega El Valle",
+    "fecha": "2026-01-20",
+    "duracion": "2h",
+    "precio": "35$"
+  },
+  {
+    "id_actividad": 3,
+    "nombre": "Senderismo al Mirador",
+    "categoria": "Aventura",
+    "descripcion": "Ruta de nivel medio con vistas panorámicas.",
+    "ubicacion": "Parque Natural",
+    "fecha": "2026-01-22",
+    "duracion": "4h",
+    "precio": "18$"
+  },
+  {
+    "id_actividad": 4,
+    "nombre": "Clase de Cocina Regional",
+    "categoria": "Gastronomía",
+    "descripcion": "Aprende a preparar platos típicos con un chef.",
+    "ubicacion": "Aula Gastronómica",
+    "fecha": "2026-02-01",
+    "duracion": "2.5h",
+    "precio": "40$"
+  },
+  {
+    "id_actividad": 5,
+    "nombre": "Paseo en Bicicleta",
+    "categoria": "Aventura",
+    "descripcion": "Recorrido en bici por la ribera del río.",
+    "ubicacion": "Ribera Norte",
+    "fecha": "2026-01-18",
+    "duracion": "2h",
+    "precio": "15$"
+  },
+  {
+    "id_actividad": 6,
+    "nombre": "Yoga al Amanecer",
+    "categoria": "Bienestar",
+    "descripcion": "Sesión de yoga grupal al aire libre para todos los niveles.",
+    "ubicacion": "Parque Central",
+    "fecha": "2026-02-05",
+    "duracion": "1.5h",
+    "precio": "12$"
+  },
+  {
+    "id_actividad": 7,
+    "nombre": "Taller de Fotografía de Naturaleza",
+    "categoria": "Cultural",
+    "descripcion": "Aprende técnicas de fotografía en un entorno natural.",
+    "ubicacion": "Bosque de la Esperanza",
+    "fecha": "2026-02-10",
+    "duracion": "3h",
+    "precio": "28$"
+  },
+  {
+    "id_actividad": 8,
+    "nombre": "Escape Room Histórico",
+    "categoria": "Ocio",
+    "descripcion": "Juego de escape ambientado en la historia local.",
+    "ubicacion": "Centro de Ocio",
+    "fecha": "2026-02-15",
+    "duracion": "1h",
+    "precio": "20$"
+  },
+  {
+    "id_actividad": 9,
+    "nombre": "Caminata Nocturna con Linternas",
+    "categoria": "Aventura",
+    "descripcion": "Explora senderos bajo las estrellas con guía especializado.",
+    "ubicacion": "Montaña Azul",
+    "fecha": "2026-02-20",
+    "duracion": "2.5h",
+    "precio": "17$"
+  },
+  {
+    "id_actividad": 10,
+    "nombre": "Visita a la Granja Escuela",
+    "categoria": "Familiar",
+    "descripcion": "Actividad educativa para niños y familias con animales y talleres.",
+    "ubicacion": "Granja Los Pinos",
+    "fecha": "2026-02-25",
+    "duracion": "3h",
+    "precio": "10$"
+  }
+]
