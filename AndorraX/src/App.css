@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Montserrat:wght@400;700&display=swap');
+
 /* Títulos de página atractivos */
 .page-title {
   font-family: 'Orbitron', 'Montserrat', Arial, sans-serif;
@@ -24,11 +26,6 @@
 .eventos-title {
   border-left: 8px solid #38bdf8;
   border-right: 8px solid #0ea5e9;
-}
-/* Google Fonts para home futurista */
-@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@700&family=Montserrat:wght@400;700&display=swap');
-
-/* HOME PROFESIONAL Y FUTURISTA */
 .pro-home {
   font-family: 'Montserrat', Arial, sans-serif;
   background: linear-gradient(120deg, #f0f9ff 60%, #bae6fd 100%);
@@ -791,4 +788,5 @@ img{
     height: 160px;
     max-width: 98vw;
   }
+}
 }
